@@ -4,7 +4,7 @@
 
 Explore a visually captivating replica of the Netflix landing page, recreated with HTML5 and CSS3
 
-## 📌 Live Site URL: <a href="https://netflix-landing-page-clone-79.netlify.app/">**Visit Now** 🚀</a>
+## 📌 Live Site URL: <a href="https://mhdamaan79.github.io/Netflix-Landing-Page-Clone/">**Visit Now** 🚀</a>
 
 ## 📬 Connect With Me
 
